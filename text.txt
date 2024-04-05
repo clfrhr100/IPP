@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 a
 b
 c
 d
+=======
+e
+f
+g
+h
+>>>>>>> newBranch
